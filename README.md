@@ -1,7 +1,7 @@
 
 # To-Do List (Flutter App)
 
-➤ The app’s state management, navigation in local storage.
+➤ The app’s state management and navigation in local storage.
 
 
 ## Screenshots
@@ -9,6 +9,7 @@
 
 ## Demo
 
+- [View Demo on Flutter Web](https://shorturl.at/nrMR4)
 
 ## Key Features
 
